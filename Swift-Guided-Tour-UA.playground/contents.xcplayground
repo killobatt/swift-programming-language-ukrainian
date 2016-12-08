@@ -8,5 +8,6 @@
         <page name='Об&apos;єкти та Класи'/>
         <page name='Перечислення і Структури'/>
         <page name='Протоколи і Розширення'/>
+        <page name='Обробка Помилок'/>
     </pages>
 </playground>

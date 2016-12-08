@@ -6,5 +6,6 @@
         <page name='Потік керування'/>
         <page name='Функції та Замикання'/>
         <page name='Об&apos;єкти та Класи'/>
+        <page name='Перечислення і Структури'/>
     </pages>
 </playground>

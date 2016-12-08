@@ -9,5 +9,7 @@
         <page name='Перечислення і Структури'/>
         <page name='Протоколи і Розширення'/>
         <page name='Обробка Помилок'/>
+        <page name='Шаблони'/>
+        <page name='Ліцензія'/>
     </pages>
 </playground>

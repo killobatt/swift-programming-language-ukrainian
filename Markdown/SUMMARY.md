@@ -1,0 +1,18 @@
+# Summary
+* [Ласкаво просимо до Swift](0_welcome_to_swift/welcome_to_swift.md)
+    * [Про Swift](0_welcome_to_swift/about_swift.md)
+    * [Тур по Swift](0_welcome_to_swift/swift_tour/swift_tour.md)
+        * [Прості значення](0_welcome_to_swift/swift_tour/simple_values.md)
+        * [Потік керування](0_welcome_to_swift/swift_tour/control_flow.md)
+        * [Функції та Замикання](0_welcome_to_swift/swift_tour/functions_and_closures.md)
+        * [Об'єкти та Класи](0_welcome_to_swift/swift_tour/обєкти-та-класи.md)
+        * [Перечислення і Структури](0_welcome_to_swift/swift_tour/перечислення-і-структури.md)
+        * [Протоколи і Розширення](0_welcome_to_swift/swift_tour/протоколи-і-розширення.md)
+        * [Обробка Помилок](0_welcome_to_swift/swift_tour/error_handling.md)
+        * [Шаблони](0_welcome_to_swift/swift_tour/generics.md)
+* [Керівництво з мови](1_language_guide/language_guide.md)
+    * [Основи](1_language_guide/0_the_basics.md)
+    * [Базові оператори](1_language_guide/1_base_operators.md)
+    * [Рядки та Символи](1_language_guide/2_strings_and_characters.md)
+    * [Колекції](1_language_guide/3_collection_types.md)
+
